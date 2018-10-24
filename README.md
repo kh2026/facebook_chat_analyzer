@@ -1,1 +1,1 @@
-# facebook_chat_analyzer
+Analyzes facebook chats in .json form.
